@@ -1,0 +1,28 @@
+body{
+	background-color:#111;
+	color:#eee;
+}
+
+#header{
+	text-align: center;
+}
+
+#content{
+	padding: 0.5em;
+}
+
+a{
+	color:#48f;
+}
+
+a:visited{
+	color:#86f;
+}
+
+a:hover{
+	color:#8df;
+}
+
+a:visited:hover{
+	color:#fcf;
+}
